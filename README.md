@@ -13,10 +13,17 @@
 The objective of this project is to develop a fraud detection model to identify fraudulent credit card transactions. Use techniques like anomaly detection or supervised learning with imbalanced data.
 
 ##Key Activities
--**Data Cleaning**:Ensuring the dataset is free from inconsistencies and missing values.
--**Data Visualization**:Creating visualizations to understand data distributions, trends, and relationships.
--**Correlation Analysis**:Identifying correlations between 
+-Exploratory Data Analysis 
+-Data Sampling
+-Correlation Analysis
+-Creating dependent and independent features
+-Model Prediction
 
 ##Technologies Used
--**python**:The primary programming language for writing logic of the application.
--**pywebio**:Used to create the application which can take input and provide output to the user.
+-Python
+-numpy
+-pandas
+-matplotlib.pyplot
+-seaborn
+-sklern
+-pylab
